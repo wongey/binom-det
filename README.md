@@ -1,7 +1,7 @@
 Abstract will go here once finalized.
 
 <p align="center">
-<img src="https://wongey.github.io/binom-det/pinwheel_5788.png" width="350" height="400"> <img src="https://wongey.github.io/binom-det/hexagon_5788_withpaths.png" width="350" height="400">
+<img src="https://wongey.github.io/binom-det/pinwheel_5788.png" width="250" height="300"> <img src="https://wongey.github.io/binom-det/hexagon_5788_withpaths.png" width="250" height="300">
  </p>
 
 ### Authors
