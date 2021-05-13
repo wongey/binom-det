@@ -21,4 +21,3 @@ Abstract will go here once finalized.
 - Proof of Lemma 17: [Eq5 (711 KB)]
 
 ### Status
-  
