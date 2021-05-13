@@ -1,5 +1,9 @@
 Abstract will go here once finalized.
 
+<p align="center">
+<img src="https://wongey.github.io/binom-det/pinwheel_5788.png" width="350" height="400"> <img src="https://wongey.github.io/binom-det/hexagon_5788_withpaths.png" width="350" height="400">
+ </p>
+
 ### Authors
 
 - Hao Du - Johannes Kepler University, Linz and Beijing University of Posts and Telecommunications, China, [duhao@amss.ac.cn](mailto:duhao@amss.ac.cn)
