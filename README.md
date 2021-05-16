@@ -1,9 +1,9 @@
-Abstract will go here once finalized.
+We present and prove closed form expressions for some families of binomial determinants with signed Kronecker deltas that are located along an arbitrary diagonal in the corresponding matrix. They count cyclically symmetric rhombus tilings of hexagonal regions with triangular holes. We extend a previous systematic study of these families, where the locations of the Kronecker deltas depended on an additional parameter, to families with negative Kronecker deltas. By adapting Zeilberger's holonomic ansatz to make it work for our problems, we can take full advantage of computer algebra tools for symbolic summation. This, together with the combinatorial interpretation, allows us to realize some new determinantal relationships. From there, we are able to resolve all remaining open conjectures related to these determinants, including one from 2005 due to Lascoux and Krattenthaler.
 
 <p align="center">
 <img src="https://wongey.github.io/binom-det/pinwheel_5788.png" width="250" height="300"> <img src="https://wongey.github.io/binom-det/hexagon_5788_withpaths.png" width="250" height="300">
  </p>
-
+ 
 ### Authors
 
 - Hao Du, Johannes Kepler University, Linz
@@ -27,7 +27,7 @@ Preprints can be found on arXiv and as a RICAM Report.
 
 ### Files
 
-- We provide a service to the reader by experimentally checking identities in the statements of key lemmas, propositions, theorems and corollaries in our paper by instantiating for small values of r and m. The results of our experiments are compiled here as both a Mathematica notebook (with a pdf version for those without a Mathematica installation) and a Maple script.
+- The following files contain a compilation of experiments that check identities in the statements of key lemmas, propositions, theorems and corollaries in our paper by instantiating for small values of r and m. The results of our experiments are compiled here as both a Mathematica notebook (with a pdf version for those without a Mathematica installation) and a Maple script.
   - Sanity Check (Mathematica): [Download zip file (63 KB)](https://drive.google.com/file/d/1bzLgXgHcVXG4AvGCh4Q5CY-pmjHOnw1e/view?usp=sharing)
   - Sanity Check (Maple): [Download text file](https://docs.google.com/document/d/1a2MEfAvPromvl5j6--Mfip4vAqcHcN6Q6u3ApjhY2A4/edit?usp=sharing)
 
