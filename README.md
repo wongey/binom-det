@@ -22,12 +22,16 @@ Abstract will go here once finalized.
 
 ### Paper Status
 
-This paper has been submitted for publication. Preprints can be found on arXiv and as a RICAM Report.
+This paper has been submitted for publication.
+Preprints can be found on arXiv and as a RICAM Report.
 
 ### Files
 
-- The following Mathematica notebooks require the Mathematica package [HolonomicFunctions](https://www3.risc.jku.at/research/combinat/software/ergosum/RISC/HolonomicFunctions.html).
+- We provide a service to the reader by experimentally checking identities in the statements of key lemmas, propositions, theorems and corollaries in our paper by instantiating for small values of r and m. The results of our experiments are compiled here as both a Mathematica notebook (with a pdf version for those without a Mathematica installation) and a Maple script.
+  - Sanity Check (Mathematica): [Download zip file (63 KB)](https://drive.google.com/file/d/1bzLgXgHcVXG4AvGCh4Q5CY-pmjHOnw1e/view?usp=sharing)
+  - Sanity Check (Maple): [Download text file](https://docs.google.com/document/d/1a2MEfAvPromvl5j6--Mfip4vAqcHcN6Q6u3ApjhY2A4/edit?usp=sharing)
 
-- Proof of Lemma 10: [Eq1 (32 MB)](https://drive.google.com/file/d/1w2PpfJOZ458sMssU3LKS5W5u4Pg1PVDC/view?usp=sharing), [Eq2 (59 MB)](https://drive.google.com/file/d/1waWWN80EwKvffwQcRK5wVZcxKIL2_FS5/view?usp=sharing)
-- Proof of Lemma 16: [Eq3 (667 KB)](https://drive.google.com/file/d/12RvwGPEeB-gDbeh7if9qQAgxrjubge1g/view?usp=sharing), [Eq4 (669 KB)](https://drive.google.com/file/d/1Ja7bqXGTsULyhWF2FXqnjmOs9qTo7eLV/view?usp=sharing)
-- Proof of Lemma 17: [Eq5 (711 KB)](https://drive.google.com/file/d/1OORqZBtX01etG1QCD0lyzRSm0BWGpDm5/view?usp=sharing)
+- The following Mathematica notebooks require the Mathematica package [HolonomicFunctions](https://www3.risc.jku.at/research/combinat/software/ergosum/RISC/HolonomicFunctions.html).
+  - Proof of Lemma 10: [Eq1 (32 MB)](https://drive.google.com/file/d/1w2PpfJOZ458sMssU3LKS5W5u4Pg1PVDC/view?usp=sharing), [Eq2 (59 MB)](https://drive.google.com/file/d/1waWWN80EwKvffwQcRK5wVZcxKIL2_FS5/view?usp=sharing)
+  - Proof of Lemma 16: [Eq3 (667 KB)](https://drive.google.com/file/d/12RvwGPEeB-gDbeh7if9qQAgxrjubge1g/view?usp=sharing), [Eq4 (669 KB)](https://drive.google.com/file/d/1Ja7bqXGTsULyhWF2FXqnjmOs9qTo7eLV/view?usp=sharing)
+  - Proof of Lemma 17: [Eq5 (711 KB)](https://drive.google.com/file/d/1OORqZBtX01etG1QCD0lyzRSm0BWGpDm5/view?usp=sharing)
