@@ -28,9 +28,9 @@ Preprints can be found on arXiv and as a RICAM Report.
 
 - The following files contain a compilation of experiments that check identities in the statements of key lemmas, propositions, theorems and corollaries in our paper by instantiating for small values of r and m. The results of our experiments are compiled here as both a Mathematica notebook (with a pdf version for those without a Mathematica installation) and a Maple script.
   - Sanity Check (Mathematica): [Download zip file (63 KB)](https://drive.google.com/file/d/1bzLgXgHcVXG4AvGCh4Q5CY-pmjHOnw1e/view?usp=sharing).
-  - Sanity Check (Maple): [Download text file](https://drive.google.com/file/d/18D_JYi4lnko3Gh_dhpJ7E1ZmTn6UDHOd/view?usp=sharing).
+  - Sanity Check (Maple): [Download text file (11 KB)](https://drive.google.com/file/d/18D_JYi4lnko3Gh_dhpJ7E1ZmTn6UDHOd/view?usp=sharing).
 
 - The following Mathematica notebooks require the Mathematica package [HolonomicFunctions](https://www3.risc.jku.at/research/combinat/software/ergosum/RISC/HolonomicFunctions.html).
-  - Proof of Lemma 10: [Eq1 (32 MB)](https://drive.google.com/file/d/1w2PpfJOZ458sMssU3LKS5W5u4Pg1PVDC/view?usp=sharing), [Eq2 (59 MB)](https://drive.google.com/file/d/1waWWN80EwKvffwQcRK5wVZcxKIL2_FS5/view?usp=sharing)
-  - Proof of Lemma 16: [Eq3 (667 KB)](https://drive.google.com/file/d/12RvwGPEeB-gDbeh7if9qQAgxrjubge1g/view?usp=sharing), [Eq4 (669 KB)](https://drive.google.com/file/d/1Ja7bqXGTsULyhWF2FXqnjmOs9qTo7eLV/view?usp=sharing)
-  - Proof of Lemma 17: [Eq5 (711 KB)](https://drive.google.com/file/d/1OORqZBtX01etG1QCD0lyzRSm0BWGpDm5/view?usp=sharing)
+  - Proof of Lemma 10: [Eq1 Zip (32 MB)](https://drive.google.com/file/d/1w2PpfJOZ458sMssU3LKS5W5u4Pg1PVDC/view?usp=sharing), [Eq2 Zip (59 MB)](https://drive.google.com/file/d/1waWWN80EwKvffwQcRK5wVZcxKIL2_FS5/view?usp=sharing)
+  - Proof of Lemma 16: [Eq3 Zip (667 KB)](https://drive.google.com/file/d/12RvwGPEeB-gDbeh7if9qQAgxrjubge1g/view?usp=sharing), [Eq4 Zip (669 KB)](https://drive.google.com/file/d/1Ja7bqXGTsULyhWF2FXqnjmOs9qTo7eLV/view?usp=sharing)
+  - Proof of Lemma 17: [Eq5 Zip (711 KB)](https://drive.google.com/file/d/1OORqZBtX01etG1QCD0lyzRSm0BWGpDm5/view?usp=sharing)
