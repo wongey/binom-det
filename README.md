@@ -6,7 +6,7 @@ We present and prove closed form expressions for some families of binomial deter
  
 ### Authors
 
-- Hao Du, Johannes Kepler University, Linz
+- Hao Du, Beijing University of Posts and Telecommunications
   - [duhao@amss.ac.cn](mailto:duhao@amss.ac.cn)
 
 - [Christoph Koutschan](http://koutschan.de/index.php), Austrian Academy of Sciences, RICAM 
@@ -18,7 +18,14 @@ We present and prove closed form expressions for some families of binomial deter
 - [Elaine Wong*](https://www.ricam.oeaw.ac.at/people/member/?firstname=Elaine&lastname=Wong), Austrian Academy of Sciences, RICAM  
   - [elaine.wong@ricam.oeaw.ac.at](mailto:elaine.wong@ricam.oeaw.ac.at)
 
-*Corresponding Author - please direct all inquiries about this paper to Elaine.
+*Corresponding Author
+
+### Past and Upcoming Talks
+
+- June 17, 2021 at 13:45 (Elaine Wong; Algebra and Discrete Mathematics Seminar, Johannes Kepler University, Online)
+- July 2, 2021 at 10:30 (Christoph Koutschan; Combinatorics Seminar, Lyon à l'ENS, Online)
+- July 23-27, 2021 time TBD (Elaine Wong; International Conference on Applications of Computer Algebra, Online)
+- August 16-20, 2021 time TBD (Elaine Wong; SIAM Conference on Applied Algebraic Geometry, Online)
 
 ### Paper Status
 
