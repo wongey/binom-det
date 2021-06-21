@@ -22,7 +22,7 @@ We present and prove closed form expressions for some families of binomial deter
 
 ### Past and Upcoming Talks
 
-- June 17, 2021 at 13:45 (Elaine Wong; Algebra and Discrete Mathematics Seminar, Johannes Kepler University, Online)
+- June 17, 2021 at 13:45 (Elaine Wong; [Algebra and Discrete Mathematics Seminar](http://www.algebra.uni-linz.ac.at/teaching/seminar/), Johannes Kepler University, Online)
 - July 2, 2021 at 10:30 (Christoph Koutschan; [Combinatorics Seminar](https://indico.math.cnrs.fr/category/326/), Lyon à l'ENS, Online)
 - July 23-27, 2021 time TBD (Elaine Wong; [International Conference on Applications of Computer Algebra](https://aca2021.sba-research.org/), Online)
 - July 26-29, 2021 time TBD (Christoph Koutschan; [Combinatorics and Algebras From {A}mitav to {Z}eilberger Workshop](https://u.math.biu.ac.il/~beck/regev-zeilberger/), Online)
