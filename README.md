@@ -30,7 +30,7 @@ We present and prove closed form expressions for some families of binomial deter
 
 ### Paper Status
 
-This paper has been submitted for publication.
+This paper has been submitted for publication and is currently under review.
 
 Preprints can be found on [arXiv:2105.08539](https://arxiv.org/abs/2105.08539) and as a [RICAM Report](https://www.ricam.oeaw.ac.at/files/reports/21/rep21-26.pdf).
 
