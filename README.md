@@ -15,7 +15,7 @@ We present and prove closed form expressions for some families of binomial deter
 - [Thotsaporn Thanatipanonda](http://www.thotsaporn.com/), Mahidol University International College, Thailand
   - [thotsaporn@gmail.com](mailto:thotsaporn@gmail.com)
 
-- [Elaine Wong*](https://www.ricam.oeaw.ac.at/people/member/?firstname=Elaine&lastname=Wong), Austrian Academy of Sciences, RICAM  
+- [Elaine Wong*](https://www.oeaw.ac.at/ricam/staff/elaine-wong), Austrian Academy of Sciences, RICAM  
   - [elaine.wong@ricam.oeaw.ac.at](mailto:elaine.wong@ricam.oeaw.ac.at)
 
 *Corresponding Author
