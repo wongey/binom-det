@@ -26,7 +26,7 @@ All times are CEST.
 
 - June 17, 2021 at 13:45 (Elaine Wong; [Algebra and Discrete Mathematics Seminar](http://www.algebra.uni-linz.ac.at/teaching/seminar/), Johannes Kepler University) [[Slides]](https://wongey.github.io/binom-det/talk_elaine_JKU_2021.06.21.pdf)
 - July 2, 2021 at 10:30 (Christoph Koutschan; [Combinatorics Seminar](https://indico.math.cnrs.fr/category/326/), Lyon à l'ENS) [[Slides]](http://koutschan.de/publ/Lyon21/talk_Lyon21.pdf)
-- July 24, 2021 at 17:30 (Elaine Wong; [International Conference on Applications of Computer Algebra](https://aca2021.sba-research.org/), [Algorithmic Combinatorics](http://www.koutschan.de/conf/ACA21/))
+- July 24, 2021 at 17:30 (Elaine Wong; [International Conference on Applications of Computer Algebra](https://aca2021.sba-research.org/), [Algorithmic Combinatorics](http://www.koutschan.de/conf/ACA21/))[[Slides]](https://wongey.github.io/binom-det/talk_elaine_ACA_2021.07.24.pdf)
 - July 29, 2021 at 10:00 (Christoph Koutschan; [Combinatorics and Algebras From {A}mitav to {Z}eilberger Workshop](https://u.math.biu.ac.il/~beck/regev-zeilberger/), Online)
 - August 16-20, 2021 at 19:10 (Elaine Wong; [SIAM Conference on Applied Algebraic Geometry](https://www.siam.org/conferences/cm/conference/ag21), [Symbolic Combinatorics](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=71165))
 
