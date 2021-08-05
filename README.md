@@ -24,12 +24,13 @@ We present and prove closed form expressions for some families of binomial deter
 
 All times are CEST.
 
-- June 17, 2021 at 13:45 (Elaine Wong; [Algebra and Discrete Mathematics Seminar](http://www.algebra.uni-linz.ac.at/teaching/seminar/), Johannes Kepler University) [[Slides]](https://wongey.github.io/binom-det/talk_elaine_JKU_2021.06.21.pdf)
-- July 2, 2021 at 10:30 (Christoph Koutschan; [Combinatorics Seminar](https://indico.math.cnrs.fr/category/326/), Lyon à l'ENS) [[Slides]](http://koutschan.de/publ/Lyon21/talk_Lyon21.pdf)
-- July 24, 2021 at 17:30 (Elaine Wong; [International Conference on Applications of Computer Algebra](https://aca2021.sba-research.org/), [Algorithmic Combinatorics](http://www.koutschan.de/conf/ACA21/)) [[Slides]](https://wongey.github.io/binom-det/talk_elaine_ACA_2021.07.24.pdf)
-- July 29, 2021 at 16:00 (Christoph Koutschan; [Combinatorics and Algebras From {A}mitav to {Z}eilberger Workshop](https://u.math.biu.ac.il/~beck/regev-zeilberger/), Online)
-- August 16, 2021 at 19:10 (Elaine Wong; [SIAM Conference on Applied Algebraic Geometry](https://www.siam.org/conferences/cm/conference/ag21), [Symbolic Combinatorics](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=71165))
-- Sept 27 - Oct 1, 2021 at TBD (Christoph Koutschan; [DMV-ÖMG Jahrestagung 2021](https://www.uni-passau.de/dmv-oemg-2021/startseite/), [Computer Algebra](https://www.uni-passau.de/en/dmv-oemg-jahrestagung-2021/sections/), University of Passau, in German)
+- June 17, 2021 at 13:45 (Elaine Wong; [Algebra and Discrete Mathematics Seminar](http://www.algebra.uni-linz.ac.at/teaching/seminar/), Johannes Kepler University, Online) [[Slides]](https://wongey.github.io/binom-det/talk_elaine_JKU_2021.06.21.pdf)
+- July 2, 2021 at 10:30 (Christoph Koutschan; [Combinatorics Seminar](https://indico.math.cnrs.fr/category/326/), Lyon à l'ENS, Online) [[Slides]](http://koutschan.de/publ/Lyon21/talk_Lyon21.pdf)
+- July 24, 2021 at 17:30 (Elaine Wong; [International Conference on Applications of Computer Algebra](https://aca2021.sba-research.org/), [Algorithmic Combinatorics](http://www.koutschan.de/conf/ACA21/), Online) [[Slides]](https://wongey.github.io/binom-det/talk_elaine_ACA_2021.07.24.pdf)
+- July 29, 2021 at 16:00 (Christoph Koutschan; [Combinatorics and Algebras From {A}mitav to {Z}eilberger Workshop](https://u.math.biu.ac.il/~beck/regev-zeilberger/), Online) [[Slides]](http://koutschan.de/publ/AR80DZ70/talk_AR80DZ70.pdf)
+- August 10, 2021 at 10:30 (Elaine Wong; [AEC SFB Statusseminar](https://www.sfb050.risc.jku.at/events/in-person-meeting), In Person)
+- August 16, 2021 at 19:10 (Elaine Wong; [SIAM Conference on Applied Algebraic Geometry](https://www.siam.org/conferences/cm/conference/ag21), [Symbolic Combinatorics](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=71165), Online)
+- Sept 27 - Oct 1, 2021 at TBD (Christoph Koutschan; [DMV-ÖMG Jahrestagung 2021](https://www.uni-passau.de/dmv-oemg-2021/startseite/), [Computer Algebra](https://www.uni-passau.de/en/dmv-oemg-jahrestagung-2021/sections/), University of Passau, In German)
  
 ### Paper Status
 
