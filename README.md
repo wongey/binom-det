@@ -29,12 +29,12 @@ All times are CEST.
 - July 24, 2021 at 17:30 (Elaine Wong; [International Conference on Applications of Computer Algebra](https://aca2021.sba-research.org/), [Algorithmic Combinatorics](http://www.koutschan.de/conf/ACA21/), Online) [[Slides]](https://wongey.github.io/binom-det/talk_elaine_ACA_2021.07.24.pdf)
 - July 29, 2021 at 16:00 (Christoph Koutschan; [Combinatorics and Algebras From {A}mitav to {Z}eilberger Workshop](https://u.math.biu.ac.il/~beck/regev-zeilberger/), Online) [[Slides]](http://koutschan.de/publ/AR80DZ70/talk_AR80DZ70.pdf)
 - August 10, 2021 at 10:30 (Elaine Wong; [AEC SFB Statusseminar](https://www.sfb050.risc.jku.at/events/in-person-meeting), In Person)
-- August 16, 2021 at 19:10 (Elaine Wong; [SIAM Conference on Applied Algebraic Geometry](https://www.siam.org/conferences/cm/conference/ag21), [Symbolic Combinatorics](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=71165), Online)
+- August 16, 2021 at 21:10 (Elaine Wong; [SIAM Conference on Applied Algebraic Geometry](https://www.siam.org/conferences/cm/conference/ag21), [Symbolic Combinatorics](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=71165), Online)
 - Sept 27 - Oct 1, 2021 at TBD (Christoph Koutschan; [DMV-ÖMG Jahrestagung 2021](https://www.uni-passau.de/dmv-oemg-2021/startseite/), [Computer Algebra](https://www.uni-passau.de/en/dmv-oemg-jahrestagung-2021/sections/), University of Passau, In German)
  
 ### Paper Status
 
-This paper has been submitted for publication and is currently under review.
+(August 2021) This paper has been accepted to the <i>European Journal of Combinatorics</i> and will appear online soon.
 
 Preprints can be found on [arXiv:2105.08539](https://arxiv.org/abs/2105.08539) and as a [RICAM Report](https://www.ricam.oeaw.ac.at/files/reports/21/rep21-26.pdf).
 
@@ -48,3 +48,4 @@ Preprints can be found on [arXiv:2105.08539](https://arxiv.org/abs/2105.08539) a
   - Proof of Lemma 10: [Eq1 Zip (32 MB)](https://drive.google.com/file/d/1w2PpfJOZ458sMssU3LKS5W5u4Pg1PVDC/view?usp=sharing), [Eq2 Zip (59 MB)](https://drive.google.com/file/d/1waWWN80EwKvffwQcRK5wVZcxKIL2_FS5/view?usp=sharing)
   - Proof of Lemma 16: [Eq3 Zip (667 KB)](https://drive.google.com/file/d/12RvwGPEeB-gDbeh7if9qQAgxrjubge1g/view?usp=sharing), [Eq4 Zip (669 KB)](https://drive.google.com/file/d/1Ja7bqXGTsULyhWF2FXqnjmOs9qTo7eLV/view?usp=sharing)
   - Proof of Lemma 17: [Eq5 Zip (711 KB)](https://drive.google.com/file/d/1OORqZBtX01etG1QCD0lyzRSm0BWGpDm5/view?usp=sharing)
+  - Alternative proof of Lemma 16 in the appendix: [Eq3 Alt Zip (532 KB)](https://drive.google.com/file/d/1nrof-H9ynubW4xkSgyiFvtN7wsxJsxFz/view?usp=sharing), [Eq4 Alt Zip (534 KB)](https://drive.google.com/file/d/109p7VRYTZlCSFMe9lNs0YznVgblNC1cf/view?usp=sharing)
