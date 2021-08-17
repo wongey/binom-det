@@ -22,9 +22,9 @@ We present and prove closed form expressions for some families of binomial deter
 
 ### Paper Status
 
-(August 2021) This paper has been accepted to the <i>European Journal of Combinatorics</i> and will appear online soon.
+- (August 2021) This paper has been accepted to the <i>European Journal of Combinatorics</i> and will appear online soon.
 
-Preprints can be found on [arXiv:2105.08539](https://arxiv.org/abs/2105.08539) and as a [RICAM Report](https://www.ricam.oeaw.ac.at/files/reports/21/rep21-26.pdf).
+- Preprints can be found on [arXiv:2105.08539](https://arxiv.org/abs/2105.08539) and as a [RICAM Report](https://www.ricam.oeaw.ac.at/files/reports/21/rep21-26.pdf).
 
 ### Files
 
