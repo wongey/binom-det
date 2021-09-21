@@ -22,7 +22,7 @@ We present and prove closed form expressions for some families of binomial deter
 
 ### Paper Status
 
-- (August 2021) This paper has been accepted to the <i>European Journal of Combinatorics</i> and will appear online soon.
+- (September 2021) This paper has been published in the <i>European Journal of Combinatorics</i> with [DOI:10.1016/j.ejc.2021.103437](https://doi.org/10.1016/j.ejc.2021.103437). A completely free download of the final version of the paper is available [here](https://authors.elsevier.com/a/1dnLB_4SlB17IY) (this link expires on November 9, 2021).
 
 - Preprints can be found on [arXiv:2105.08539](https://arxiv.org/abs/2105.08539) and as a [RICAM Report](https://www.ricam.oeaw.ac.at/files/reports/21/rep21-26.pdf).
 
@@ -42,7 +42,7 @@ We present and prove closed form expressions for some families of binomial deter
 
 All times are CEST.
 
-- Sept 27 - Oct 1, 2021 at TBD, In German
+- September 27, 2021 at 16:30, In German
   - Christoph Koutschan; [DMV-ÖMG Jahrestagung 2021](https://www.uni-passau.de/dmv-oemg-2021/startseite/), [Computer Algebra](https://www.uni-passau.de/en/dmv-oemg-jahrestagung-2021/sections/), University of Passau
 - August 16, 2021 at 21:10, Online
   - Elaine Wong; [SIAM Conference on Applied Algebraic Geometry](https://www.siam.org/conferences/cm/conference/ag21), [Symbolic Combinatorics](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=71165)
