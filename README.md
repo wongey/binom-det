@@ -42,8 +42,10 @@ We present and prove closed form expressions for some families of binomial deter
 
 All times are CEST.
 
-- September 27, 2021 at 16:30, In German
-  - Christoph Koutschan; [DMV-ÖMG Jahrestagung 2021](https://www.uni-passau.de/dmv-oemg-2021/startseite/), [Computer Algebra](https://www.uni-passau.de/en/dmv-oemg-jahrestagung-2021/sections/), University of Passau
+- October 21, 2021 at 19:00, Online
+  - Elaine Wong; [Algebraic and Enumerative Combinatorics Seminar](https://melczer.ca/seminar/), University of Waterloo
+- September 27, 2021 at 17:30, Online, In German
+  - Christoph Koutschan; [DMV-ÖMG Jahrestagung 2021](https://www.uni-passau.de/dmv-oemg-2021/startseite/), [Computer Algebra](https://staff.fim.uni-passau.de/~zumbraegel/dmv-oemg/stalks.htm), University of Passau
 - August 16, 2021 at 21:10, Online
   - Elaine Wong; [SIAM Conference on Applied Algebraic Geometry](https://www.siam.org/conferences/cm/conference/ag21), [Symbolic Combinatorics](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=71165)
   - [[Slides]](https://drive.google.com/file/d/1tvzgheoSRhkSIZvaMjBITk8M6PCu5jTr/view?usp=sharing)
