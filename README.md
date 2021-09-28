@@ -46,6 +46,7 @@ All times are CEST.
   - Elaine Wong; [Algebraic and Enumerative Combinatorics Seminar](https://melczer.ca/seminar/), University of Waterloo
 - September 27, 2021 at 17:30, Online, In German
   - Christoph Koutschan; [DMV-ÖMG Jahrestagung 2021](https://www.uni-passau.de/dmv-oemg-2021/startseite/), [Computer Algebra](https://staff.fim.uni-passau.de/~zumbraegel/dmv-oemg/stalks.htm), University of Passau
+  - [[Slides]](http://koutschan.de/publ/DMVOeMG21/talk_DMVOeMG21.pdf)
 - August 16, 2021 at 21:10, Online
   - Elaine Wong; [SIAM Conference on Applied Algebraic Geometry](https://www.siam.org/conferences/cm/conference/ag21), [Symbolic Combinatorics](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=71165)
   - [[Slides]](https://drive.google.com/file/d/1tvzgheoSRhkSIZvaMjBITk8M6PCu5jTr/view?usp=sharing)
