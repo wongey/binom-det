@@ -7,24 +7,26 @@ We present and prove closed form expressions for some families of binomial deter
 ### Authors
 
 - Hao Du, Beijing University of Posts and Telecommunications
-  - [duhao@amss.ac.cn](mailto:duhao@amss.ac.cn)
+  - Contact: [duhao@amss.ac.cn](mailto:duhao@amss.ac.cn)
+  - Previous Affiliation: Johannes Kepler University, Linz, Austria
 
 - [Christoph Koutschan](http://koutschan.de/index.php), Austrian Academy of Sciences, RICAM 
-  - [christoph.koutschan@ricam.oeaw.ac.at](mailto:christoph.koutschan@ricam.oeaw.ac.at)
+  - Contact: [christoph.koutschan@ricam.oeaw.ac.at](mailto:christoph.koutschan@ricam.oeaw.ac.at)
  
 - [Thotsaporn Thanatipanonda](http://www.thotsaporn.com/), Mahidol University International College, Thailand
-  - [thotsaporn@gmail.com](mailto:thotsaporn@gmail.com)
+  - Contact: [thotsaporn@gmail.com](mailto:thotsaporn@gmail.com)
 
-- [Elaine Wong](https://sites.google.com/view/elainewong/home)*, Austrian Academy of Sciences, RICAM  
-  - [elaine.wong@ricam.oeaw.ac.at](mailto:elaine.wong@ricam.oeaw.ac.at)
+- [Elaine Wong](https://wongey.com), Oak Ridge National Laboratory, USA
+  - Contact (Corresponding Author): [woney@ornl.gov](mailto:wongey@ornl.gov)
+  - Previous Affiliation: Austrian Academy of Sciences, RICAM
 
-*Corresponding Author
+### Paper
 
-### Paper Status
-
-- (September 2021) This paper has been published in the <i>European Journal of Combinatorics</i> with [DOI:10.1016/j.ejc.2021.103437](https://doi.org/10.1016/j.ejc.2021.103437). A completely free download of the final version of the paper is available [here](https://authors.elsevier.com/a/1dnLB_4SlB17IY) (this link expires on November 9, 2021).
+- This paper has been published in the <i>European Journal of Combinatorics</i> with [DOI:10.1016/j.ejc.2021.103437](https://doi.org/10.1016/j.ejc.2021.103437).
 
 - Preprints can be found on [arXiv:2105.08539](https://arxiv.org/abs/2105.08539) and as a [RICAM Report](https://www.ricam.oeaw.ac.at/files/reports/21/rep21-26.pdf).
+
+- Cite our paper by using this [bib](https://wongey.com/bib/#DuKoutschanThanatipanondaWong2022).
 
 ### Files
 
